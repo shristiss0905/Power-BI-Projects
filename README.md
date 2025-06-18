@@ -6,46 +6,31 @@ Each project is designed to extract insights, visualize trends, and support data
 
 🗂️ Repository Structure
 
-Each folder contains:
-
-.pbix file (Power BI dashboard)
-
-The dataset used (Excel/CSV/SQL connection details)
-
-A project-specific README with:
-
-Project Overview
-
-KPIs/metrics analyzed
-
-Visuals used
-
-Insights derived
+- Each folder contains:
+- .pbix file (Power BI dashboard)
+- The dataset used (Excel/CSV/SQL connection details)
+- A project-specific README with:
+  - Project Overview
+  -  KPIs/metrics analyzed
+  -  Visuals used
+  -  Insights derived
 
 🧠 Skills & Tools Demonstrated
-Power BI Desktop
-
-Data modeling (DAX, relationships)
-
-Data transformation (Power Query)
-
-Interactive visuals and slicers
-
-Drillthrough and tooltips
-
-Custom visualizations and themes
-
-SQL, Excel, and CSV integration
+- Power BI Desktop
+- Data modeling (DAX, relationships)
+- Data transformation (Power Query)
+- Interactive visuals and slicers
+- Drillthrough and tooltips
+- Custom visualizations and themes
+- SQL, Excel, and CSV integration
 
 
 🚀 Getting Started
 To view any dashboard:
 
-Download the .pbix file of the project you're interested in.
-
-Open it using Power BI Desktop (free download here).
-
-Load data if needed, and explore the report!
+- Download the .pbix file of the project you're interested in.
+- Open it using Power BI Desktop (free download here).
+- Load data if needed, and explore the report!
 
 📬 Contact
 Have feedback or want to collaborate?
