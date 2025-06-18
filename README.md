@@ -34,7 +34,9 @@ To view any dashboard:
 
 📬 Contact
 Have feedback or want to collaborate?
+
 📧 ss.shristi.sharma@gmail.com
+
 🔗 www.linkedin.com/in/shristi-sharma-881917260
 
 ⭐️ If you find these dashboards useful...
